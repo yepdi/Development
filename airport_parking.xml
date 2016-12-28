@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE project>
+<epcis:EPCISDocument xmlns:epcis="urn:epcglobal:epcis:xsd:1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:parkingspace="http://www.tta.or.kr/epcis/schema/parkingspace.xsd"
+creationDate="2015-12-11T11:30:47.0Z"
+schemaVersion="1.1">
+	<EPCISBody>
+		<EventList>
+			<ObjectEvent>
+				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
+				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
+				<epcList ></epcList>
+				<action>DELETE</action>
+			<bizLocation>
+			<id>urn:epc:id:sgln:0352630.12757.1</id>
+			</bizLocation>
+			<parkingspace:gps_latitude>37.458839</parkingspace:gps_latitude>
+			<parkingspace:gps_longitude>127.977140</parkingspace:gps_longitude>
+			<parkingspace:parkingspace_name>원주 여객주차장</parkingspace:parkingspace_name>
+			<parkingspace:gpc>99999999</parkingspace:gpc>
+			</ObjectEvent>
+		</EventList>
+	</EPCISBody>
+</epcis:EPCISDocument>
+ 

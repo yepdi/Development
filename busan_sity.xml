@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE project>
+<epcis:EPCISDocument xmlns:epcis="urn:epcglobal:epcis:xsd:1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:parkingspace="http://www.tta.or.kr/epcis/schema/parkingspace.xsd"
+creationDate="2015-12-11T11:30:47.0Z"
+schemaVersion="1.1">
+	<EPCISBody>
+		<EventList>
+			<ObjectEvent>
+				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
+				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
+				<epcList ></epcList>
+				<action>ADD</action>
+			<bizLocation>
+			<id>urn:epc:id:sgln:0352137.12908.0</id>
+			</bizLocation>
+			<parkingspace:gps_latitude>35.213735</parkingspace:gps_latitude>
+			<parkingspace:gps_longitude>129.080503</parkingspace:gps_longitude>
+			<parkingspace:parkingspace_name>명륜역</parkingspace:parkingspace_name>
+			<parkingspace:gpc>99999999</parkingspace:gpc>
+			</ObjectEvent>
+			<ObjectEvent>
+				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
+				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
+				<epcList ></epcList>
+				<action>ADD</action>
+			<bizLocation>
+			<id>urn:epc:id:sgln:0351622.12898.0</id>
+			</bizLocation>
+			<parkingspace:gps_latitude>35.162266</parkingspace:gps_latitude>
+			<parkingspace:gps_longitude>128.988617</parkingspace:gps_longitude>
+			<parkingspace:parkingspace_name>사상역</parkingspace:parkingspace_name>
+			<parkingspace:gpc>99999999</parkingspace:gpc>
+			</ObjectEvent>
+			<ObjectEvent>
+				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
+				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
+				<epcList ></epcList>
+				<action>ADD</action>
+			<bizLocation>
+			<id>urn:epc:id:sgln:0352074.12907.0</id>
+			</bizLocation>
+			<parkingspace:gps_latitude>35.207438</parkingspace:gps_latitude>
+			<parkingspace:gps_longitude>129.078484</parkingspace:gps_longitude>
+			<parkingspace:parkingspace_name>동래역</parkingspace:parkingspace_name>
+			<parkingspace:gpc>99999999</parkingspace:gpc>
+			</ObjectEvent>
+			<ObjectEvent>
+				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
+				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
+				<epcList ></epcList>
+				<action>ADD</action>
+			<bizLocation>
+			<id>urn:epc:id:sgln:0352135.12908.0</id>
+			</bizLocation>
+			<parkingspace:gps_latitude>35.213530</parkingspace:gps_latitude>
+			<parkingspace:gps_longitude>129.080126</parkingspace:gps_longitude>
+			<parkingspace:parkingspace_name>온천장역</parkingspace:parkingspace_name>
+			<parkingspace:gpc>99999999</parkingspace:gpc>
+			</ObjectEvent>
+			<ObjectEvent>
+				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
+				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
+				<epcList ></epcList>
+				<action>ADD</action>
+			<bizLocation>
+			<id>urn:epc:id:sgln:0352282.12908.0</id>
+			</bizLocation>
+			<parkingspace:gps_latitude>35.228230</parkingspace:gps_latitude>
+			<parkingspace:gps_longitude>129.089236</parkingspace:gps_longitude>
+			<parkingspace:parkingspace_name>부산대남측</parkingspace:parkingspace_name>
+			<parkingspace:gpc>99999999</parkingspace:gpc>
+			</ObjectEvent>
+			<ObjectEvent>
+				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
+				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
+				<epcList ></epcList>
+				<action>ADD</action>
+			<bizLocation>
+			<id>urn:epc:id:sgln:0352316.12908.0</id>
+			</bizLocation>
+			<parkingspace:gps_latitude>35.231672</parkingspace:gps_latitude>
+			<parkingspace:gps_longitude>129.089029</parkingspace:gps_longitude>
+			<parkingspace:parkingspace_name>부산대북측</parkingspace:parkingspace_name>
+			<parkingspace:gpc>99999999</parkingspace:gpc>
+			</ObjectEvent>
+			<ObjectEvent>
+				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
+				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
+				<epcList ></epcList>
+				<action>ADD</action>
+			<bizLocation>
+			<id>urn:epc:id:sgln:0352391.12908.0</id>
+			</bizLocation>
+			<parkingspace:gps_latitude>35.239197</parkingspace:gps_latitude>
+			<parkingspace:gps_longitude>129.088424</parkingspace:gps_longitude>
+			<parkingspace:parkingspace_name>장전역</parkingspace:parkingspace_name>
+			<parkingspace:gpc>99999999</parkingspace:gpc>
+			</ObjectEvent>
+			<ObjectEvent>
+				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
+				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
+				<epcList ></epcList>
+				<action>ADD</action>
+			<bizLocation>
+			<id>urn:epc:id:sgln:0352455.12909.0</id>
+			</bizLocation>
+			<parkingspace:gps_latitude>35.245587</parkingspace:gps_latitude>
+			<parkingspace:gps_longitude>129.091250</parkingspace:gps_longitude>
+			<parkingspace:parkingspace_name>구서역</parkingspace:parkingspace_name>
+			<parkingspace:gpc>99999999</parkingspace:gpc>
+			</ObjectEvent>
+			<ObjectEvent>
+				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
+				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
+				<epcList ></epcList>
+				<action>ADD</action>
+			<bizLocation>
+			<id>urn:epc:id:sgln:0352654.12909.0</id>
+			</bizLocation>
+			<parkingspace:gps_latitude>35.265426</parkingspace:gps_latitude>
+			<parkingspace:gps_longitude>129.092845</parkingspace:gps_longitude>
+			<parkingspace:parkingspace_name>남산역</parkingspace:parkingspace_name>
+			<parkingspace:gpc>99999999</parkingspace:gpc>
+			</ObjectEvent>
+			<ObjectEvent>
+				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
+				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
+				<epcList ></epcList>
+				<action>ADD</action>
+			<bizLocation>
+			<id>urn:epc:id:sgln:0352832.12909.0</id>
+			</bizLocation>
+			<parkingspace:gps_latitude>35.283269</parkingspace:gps_latitude>
+			<parkingspace:gps_longitude>129.095090</parkingspace:gps_longitude>
+			<parkingspace:parkingspace_name>노포역</parkingspace:parkingspace_name>
+			<parkingspace:gpc>99999999</parkingspace:gpc>
+			</ObjectEvent>
+			<ObjectEvent>
+				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
+				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
+				<epcList ></epcList>
+				<action>ADD</action>
+			<bizLocation>
+			<id>urn:epc:id:sgln:0351046.12896.0</id>
+			</bizLocation>
+			<parkingspace:gps_latitude>35.104601</parkingspace:gps_latitude>
+			<parkingspace:gps_longitude>128.964474</parkingspace:gps_longitude>
+			<parkingspace:parkingspace_name>하단역</parkingspace:parkingspace_name>
+			<parkingspace:gpc>99999999</parkingspace:gpc>
+			</ObjectEvent>
+			<ObjectEvent>
+				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
+				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
+				<epcList ></epcList>
+				<action>ADD</action>
+			<bizLocation>
+			<id>urn:epc:id:sgln:0351486.12900.0</id>
+			</bizLocation>
+			<parkingspace:gps_latitude>35.148666</parkingspace:gps_latitude>
+			<parkingspace:gps_longitude>129.001273</parkingspace:gps_longitude>
+			<parkingspace:parkingspace_name>학장천</parkingspace:parkingspace_name>
+			<parkingspace:gpc>99999999</parkingspace:gpc>
+			</ObjectEvent>
+			<ObjectEvent>
+				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
+				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
+				<epcList ></epcList>
+				<action>ADD</action>
+			<bizLocation>
+			<id>urn:epc:id:sgln:0351704.12917.0</id>
+			</bizLocation>
+			<parkingspace:gps_latitude>35.170445</parkingspace:gps_latitude>
+			<parkingspace:gps_longitude>129.175992</parkingspace:gps_longitude>
+			<parkingspace:parkingspace_name>장산역</parkingspace:parkingspace_name>
+			<parkingspace:gpc>99999999</parkingspace:gpc>
+			</ObjectEvent>
+			<ObjectEvent>
+				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
+				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
+				<epcList ></epcList>
+				<action>ADD</action>
+			<bizLocation>
+			<id>urn:epc:id:sgln:0351691.12917.0</id>
+			</bizLocation>
+			<parkingspace:gps_latitude>35.169152</parkingspace:gps_latitude>
+			<parkingspace:gps_longitude>129.177358</parkingspace:gps_longitude>
+			<parkingspace:parkingspace_name>장산역2</parkingspace:parkingspace_name>
+			<parkingspace:gpc>99999999</parkingspace:gpc>
+			</ObjectEvent>
+			<ObjectEvent>
+				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
+				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
+				<epcList ></epcList>
+				<action>ADD</action>
+			<bizLocation>
+			<id>urn:epc:id:sgln:0351590.12915.0</id>
+			</bizLocation>
+			<parkingspace:gps_latitude>35.159073</parkingspace:gps_latitude>
+			<parkingspace:gps_longitude>129.159332</parkingspace:gps_longitude>
+			<parkingspace:parkingspace_name>해운대광장</parkingspace:parkingspace_name>
+			<parkingspace:gpc>99999999</parkingspace:gpc>
+			</ObjectEvent>
+			<ObjectEvent>
+				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
+				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
+				<epcList ></epcList>
+				<action>ADD</action>
+			<bizLocation>
+			<id>urn:epc:id:sgln:0351548.12913.0</id>
+			</bizLocation>
+			<parkingspace:gps_latitude>35.154869</parkingspace:gps_latitude>
+			<parkingspace:gps_longitude>129.131358</parkingspace:gps_longitude>
+			<parkingspace:parkingspace_name>수변공원</parkingspace:parkingspace_name>
+			<parkingspace:gpc>99999999</parkingspace:gpc>
+			</ObjectEvent>
+			<ObjectEvent>
+				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
+				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
+				<epcList ></epcList>
+				<action>ADD</action>
+			<bizLocation>
+			<id>urn:epc:id:sgln:0351563.12913.0</id>
+			</bizLocation>
+			<parkingspace:gps_latitude>35.156325</parkingspace:gps_latitude>
+			<parkingspace:gps_longitude>129.134126</parkingspace:gps_longitude>
+			<parkingspace:parkingspace_name>광안해수월드옆</parkingspace:parkingspace_name>
+			<parkingspace:gpc>99999999</parkingspace:gpc>
+			</ObjectEvent>
+			<ObjectEvent>
+				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
+				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
+				<epcList ></epcList>
+				<action>ADD</action>
+			<bizLocation>
+			<id>urn:epc:id:sgln:0351670.12917.0</id>
+			</bizLocation>
+			<parkingspace:gps_latitude>35.167051</parkingspace:gps_latitude>
+			<parkingspace:gps_longitude>129.170377</parkingspace:gps_longitude>
+			<parkingspace:parkingspace_name>중동역 주차장</parkingspace:parkingspace_name>
+			<parkingspace:gpc>99999999</parkingspace:gpc>
+			</ObjectEvent>
+			<ObjectEvent>
+				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
+				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
+				<epcList ></epcList>
+				<action>ADD</action>
+			<bizLocation>
+			<id>urn:epc:id:sgln:0351548.12913.0</id>
+			</bizLocation>
+			<parkingspace:gps_latitude>35.157585</parkingspace:gps_latitude>
+			<parkingspace:gps_longitude>129.151627</parkingspace:gps_longitude>
+			<parkingspace:parkingspace_name>동백사거리 주차장</parkingspace:parkingspace_name>
+			<parkingspace:gpc>99999999</parkingspace:gpc>
+			</ObjectEvent>
+		</EventList>
+	</EPCISBody>
+</epcis:EPCISDocument>
+ 
