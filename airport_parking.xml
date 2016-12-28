@@ -11,13 +11,206 @@ schemaVersion="1.1">
 				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
 				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
 				<epcList ></epcList>
-				<action>DELETE</action>
+				<action>ADD</action>
 			<bizLocation>
 			<id>urn:epc:id:sgln:0352630.12757.1</id>
 			</bizLocation>
 			<parkingspace:gps_latitude>37.458839</parkingspace:gps_latitude>
 			<parkingspace:gps_longitude>127.977140</parkingspace:gps_longitude>
 			<parkingspace:parkingspace_name>원주 여객주차장</parkingspace:parkingspace_name>
+			<parkingspace:gpc>99999999</parkingspace:gpc>
+			</ObjectEvent>
+			<ObjectEvent>
+				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
+				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
+				<epcList ></epcList>
+				<action>ADD</action>
+			<bizLocation>
+			<id>urn:epc:id:sgln:0353536.12921.1</id>
+			</bizLocation>
+			<parkingspace:gps_latitude>35.593319</parkingspace:gps_latitude>
+			<parkingspace:gps_longitude>129.356503</parkingspace:gps_longitude>
+			<parkingspace:parkingspace_name>울산 여객주차장</parkingspace:parkingspace_name>
+			<parkingspace:gpc>99999999</parkingspace:gpc>
+			</ObjectEvent>
+			<ObjectEvent>
+				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
+				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
+				<epcList ></epcList>
+				<action>ADD</action>
+			<bizLocation>
+			<id>urn:epc:id:sgln:0345024.12736.1</id>
+			</bizLocation>
+			<parkingspace:gps_latitude>34.840143</parkingspace:gps_latitude>
+			<parkingspace:gps_longitude>127.613219</parkingspace:gps_longitude>
+			<parkingspace:parkingspace_name>여수 여객주차장</parkingspace:parkingspace_name>
+			<parkingspace:gpc>99999999</parkingspace:gpc>
+			</ObjectEvent>
+			<ObjectEvent>
+				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
+				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
+				<epcList ></epcList>
+				<action>ADD</action>
+			<bizLocation>
+			<id>urn:epc:id:sgln:0355327.12839.1</id>
+			</bizLocation>
+			<parkingspace:gps_latitude>35.899236</parkingspace:gps_latitude>
+			<parkingspace:gps_longitude>128.637560</parkingspace:gps_longitude>
+			<parkingspace:parkingspace_name>대구 여객주차장</parkingspace:parkingspace_name>
+			<parkingspace:gpc>99999999</parkingspace:gpc>
+			</ObjectEvent>
+			<ObjectEvent>
+				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
+				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
+				<epcList ></epcList>
+				<action>ADD</action>
+			<bizLocation>
+			<id>urn:epc:id:sgln:0355327.12839.2</id>
+			</bizLocation>
+			<parkingspace:gps_latitude>35.897921</parkingspace:gps_latitude>
+			<parkingspace:gps_longitude>128.639821</parkingspace:gps_longitude>
+			<parkingspace:parkingspace_name>대구 화물주차장</parkingspace:parkingspace_name>
+			</ObjectEvent>
+			<ObjectEvent>
+				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
+				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
+				<epcList ></epcList>
+				<action>ADD</action>
+			<bizLocation>
+			<id>urn:epc:id:sgln:0350730.12648.1</id>
+			</bizLocation>
+			<parkingspace:gps_latitude>35.140580</parkingspace:gps_latitude>
+			<parkingspace:gps_longitude>126.810054</parkingspace:gps_longitude>
+			<parkingspace:parkingspace_name>광주 여객주차장</parkingspace:parkingspace_name>
+			<parkingspace:gpc>99999999</parkingspace:gpc>
+			</ObjectEvent>
+			<ObjectEvent>
+				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
+				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
+				<epcList ></epcList>
+				<action>ADD</action>
+			<bizLocation>
+			<id>urn:epc:id:sgln:0350730.12648.2</id>
+			</bizLocation>
+			<parkingspace:gps_latitude>35.139290</parkingspace:gps_latitude>
+			<parkingspace:gps_longitude>126.809013</parkingspace:gps_longitude>
+			<parkingspace:parkingspace_name>광주 화물주차장</parkingspace:parkingspace_name>
+			</ObjectEvent>
+			<ObjectEvent>
+				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
+				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
+				<epcList ></epcList>
+				<action>ADD</action>
+			<bizLocation>
+			<id>urn:epc:id:sgln:0354006.12637.1</id>
+			</bizLocation>
+			<parkingspace:gps_latitude>35.926711</parkingspace:gps_latitude>
+			<parkingspace:gps_longitude>126.615800</parkingspace:gps_longitude>
+			<parkingspace:parkingspace_name>군산 여객주차장</parkingspace:parkingspace_name>
+			<parkingspace:gpc>99999999</parkingspace:gpc>
+			</ObjectEvent>
+			<ObjectEvent>
+				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
+				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
+				<epcList ></epcList>
+				<action>ADD</action>
+			<bizLocation>
+			<id>urn:epc:id:sgln:0335065.12649.1</id>
+			</bizLocation>
+			<parkingspace:gps_latitude>33.506222</parkingspace:gps_latitude>
+			<parkingspace:gps_longitude>126.496501</parkingspace:gps_longitude>
+			<parkingspace:parkingspace_name>제주 화물주차장</parkingspace:parkingspace_name>
+			<parkingspace:gpc>99999999</parkingspace:gpc>
+			</ObjectEvent>
+			<ObjectEvent>
+				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
+				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
+				<epcList ></epcList>
+				<action>ADD</action>
+			<bizLocation>
+			<id>urn:epc:id:sgln:0335065.12649.2</id>
+			</bizLocation>
+			<parkingspace:gps_latitude>33.505461</parkingspace:gps_latitude>
+			<parkingspace:gps_longitude>126.494398</parkingspace:gps_longitude>
+			<parkingspace:parkingspace_name>제주 여객주차장</parkingspace:parkingspace_name>
+			<parkingspace:gpc>99999999</parkingspace:gpc>
+			</ObjectEvent>
+			<ObjectEvent>
+				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
+				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
+				<epcList ></epcList>
+				<action>ADD</action>
+			<bizLocation>
+			<id>urn:epc:id:sgln:0351728.12894.2</id>
+			</bizLocation>
+			<parkingspace:gps_latitude>35.172229</parkingspace:gps_latitude>
+			<parkingspace:gps_longitude>128.946359</parkingspace:gps_longitude>
+			<parkingspace:parkingspace_name>김해 여객(국내,국제)</parkingspace:parkingspace_name>
+			<parkingspace:gpc>99999999</parkingspace:gpc>
+			</ObjectEvent>
+			<ObjectEvent>
+				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
+				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
+				<epcList ></epcList>
+				<action>ADD</action>
+			<bizLocation>
+			<id>urn:epc:id:sgln:0351728.12894.3</id>
+			</bizLocation>
+			<parkingspace:gps_latitude>35.171137</parkingspace:gps_latitude>
+			<parkingspace:gps_longitude>128.947520</parkingspace:gps_longitude>
+			<parkingspace:parkingspace_name>김해 국내화물</parkingspace:parkingspace_name>
+			<parkingspace:gpc>99999999</parkingspace:gpc>
+			</ObjectEvent>
+			<ObjectEvent>
+				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
+				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
+				<epcList ></epcList>
+				<action>ADD</action>
+			<bizLocation>
+			<id>urn:epc:id:sgln:0375557.12680.1</id>
+			</bizLocation>
+			<parkingspace:gps_latitude>35.171137</parkingspace:gps_latitude>
+			<parkingspace:gps_longitude>128.947520</parkingspace:gps_longitude>
+			<parkingspace:parkingspace_name>김포 국제선주차장</parkingspace:parkingspace_name>
+			<parkingspace:gpc>99999999</parkingspace:gpc>
+			</ObjectEvent>
+			<ObjectEvent>
+				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
+				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
+				<epcList ></epcList>
+				<action>ADD</action>
+			<bizLocation>
+			<id>urn:epc:id:sgln:0375557.12680.2</id>
+			</bizLocation>
+			<parkingspace:gps_latitude>37.560310</parkingspace:gps_latitude>
+			<parkingspace:gps_longitude>126.805174</parkingspace:gps_longitude>
+			<parkingspace:parkingspace_name>김포 국내선 제1주차장</parkingspace:parkingspace_name>
+			<parkingspace:gpc>99999999</parkingspace:gpc>
+			</ObjectEvent>
+			<ObjectEvent>
+				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
+				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
+				<epcList ></epcList>
+				<action>ADD</action>
+			<bizLocation>
+			<id>urn:epc:id:sgln:0375557.12680.3</id>
+			</bizLocation>
+			<parkingspace:gps_latitude>37.558953</parkingspace:gps_latitude>
+			<parkingspace:gps_longitude>126.807247</parkingspace:gps_longitude>
+			<parkingspace:parkingspace_name>김포 국내선 제2주차장</parkingspace:parkingspace_name>
+			<parkingspace:gpc>99999999</parkingspace:gpc>
+			</ObjectEvent>
+			<ObjectEvent>
+				<eventTime>2013-06-08T14:58:56.591Z</eventTime>
+				<eventTimeZoneOffset>+02:00</eventTimeZoneOffset>
+				<epcList ></epcList>
+				<action>ADD</action>
+			<bizLocation>
+			<id>urn:epc:id:sgln:0375557.12680.4</id>
+			</bizLocation>
+			<parkingspace:gps_latitude>37.556381</parkingspace:gps_latitude>
+			<parkingspace:gps_longitude>126.808050</parkingspace:gps_longitude>
+			<parkingspace:parkingspace_name>김포 화물청사 주차장</parkingspace:parkingspace_name>
 			<parkingspace:gpc>99999999</parkingspace:gpc>
 			</ObjectEvent>
 		</EventList>
